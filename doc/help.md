@@ -6,5 +6,7 @@ python manage.py createsuperuser
 
 cd apps
 django-admin startapp news
+django-admin startapp dadmin
 
+pip install django-simple-captcha
 ```
